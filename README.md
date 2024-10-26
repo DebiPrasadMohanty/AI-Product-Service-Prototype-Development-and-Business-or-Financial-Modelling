@@ -14,8 +14,6 @@ Key functionalities include:
 Files in the Repository
 - Report.pdf: A comprehensive report detailing the Pneumonia Disease Detection Tool, including its core functionalities, business model, technical architecture, and financial modeling approach.
 
-- Data/ directory: Contains sample chest X-ray images for training, validation, and testing.
-
 - app.py: A Streamlit app script that provides a user interface for uploading chest X-ray images, receiving real-time pneumonia diagnosis, and displaying Grad-CAM and LIME explanations.
 
 Dependencies
