@@ -30,6 +30,7 @@ bash
 - pillow
 - lime
 - scikit-image
+
 Install all dependencies with:
 
 - bash
@@ -48,7 +49,7 @@ Usage
 - Clone the repository:
 bash
 - Copy code
-- git clone https://github.com/DebiPrasadMohanty/Pneumonia-Disease-Detection
+- git clone https://github.com/DebiPrasadMohanty/AI-Product-Service-Prototype-Development-and-Business-or-Financial-Modelling
 - Navigate to the project directory:
 - bash
 - Copy code
